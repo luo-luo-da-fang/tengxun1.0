@@ -10,8 +10,6 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
-# 禁用所有警告提示
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # 尝试导入可选依赖库
 try:
